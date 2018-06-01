@@ -81,7 +81,7 @@ import Control.Exception (AsyncException(ThreadKilled), SomeException)
 import Control.Monad (forever)
 import Control.Monad.STM (atomically)
 import Control.Rematch hiding (match)
-import Control.Rematch.Run
+import Control.Rematch.Run 
 import Data.Binary
 import Data.Typeable (Typeable)
 
