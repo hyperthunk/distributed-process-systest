@@ -1,4 +1,4 @@
-resolver: nightly-2016-03-02
+resolver: lts-11.7
 packages:
 - .
 - location:
@@ -15,6 +15,6 @@ packages:
     commit: 7542b749c668d08eea34d65556b889f6ca2e8f2e
 
 extra-deps:
-- network-transport-tcp-0.4.2
+- network-transport-tcp-0.5.1
 - rematch-0.2.0.0
 
