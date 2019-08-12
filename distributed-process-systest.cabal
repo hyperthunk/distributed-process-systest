@@ -21,7 +21,7 @@ library
                      distributed-static,
                      HUnit >= 1.2 && < 1.7,
                      network-transport >= 0.4.1.0 && < 0.6,
-                     network >= 2.5 && < 2.7,
+                     network >= 2.5,
                      random >= 1.0 && < 1.2,
                      rematch >= 0.1.2.1,
                      test-framework >= 0.6 && < 0.9,
